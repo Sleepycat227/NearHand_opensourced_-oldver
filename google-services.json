@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999012348217",
+    "project_id": "nearhand-9677e",
+    "storage_bucket": "nearhand-9677e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999012348217:android:cac6038bcbb28c283038e8",
+        "android_client_info": {
+          "package_name": "com.nearhand.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQNb8W_fuBz9mcGBarHb34gyz-yAq9968"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
